@@ -1,0 +1,26 @@
+{
+  "directory": "C:\\Users\\batoo\\Downloads\\Project Structure\\test_folder",
+  "created": "2026-10-09T17:15:19",
+  "files": {
+    "file1.txt": {
+      "sha256": "654b93f61054e4ce90ed203bb8d556a6200d5f906cf3eca0620738d6dc18cbed",
+      "size": 28,
+      "modified": "2026-10-08T21:17:28"
+    },
+    "file2.txt": {
+      "sha256": "240a6506c0f01867d159946723c1d0dc8b8113d98bd3c35fe109bb0221e5d54b",
+      "size": 28,
+      "modified": "2026-10-08T21:17:28"
+    },
+    "file3.txt": {
+      "sha256": "0dbb64e7ed9b1cf5840c9367463c333800823f9ba948da15f33cc33b9ac764d2",
+      "size": 24,
+      "modified": "2026-10-08T21:14:19"
+    },
+    "file3.txtpython": {
+      "sha256": "67703dce35cbdb46a214d0c44facd4a23bd9dcb1eb0d19791d5f46aaa7f4203b",
+      "size": 82,
+      "modified": "2026-10-08T21:17:44"
+    }
+  }
+}
